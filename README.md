@@ -11,7 +11,8 @@ Para executar o projeto é necessário apenas acessar os arquivos e  Abrir o Arq
 <BR>
 
 <h2> 📦 Desenvolvimento </H2>
-- 
+- Conhecimentos Basicos em HTML e CSS para o desenvolvimento da Pagina
+- Utilização Basica de API para colocar imagem de Usuario através da plataforma avatars.dicebear.com
 
 <h2> 🛠️ Construído com </H2>
 - HTML e CSS
@@ -19,3 +20,4 @@ Para executar o projeto é necessário apenas acessar os arquivos e  Abrir o Arq
 <H2> 📄 Licença </H2>
 
 - Projeto feito através do Vídeo Clone UI da Rocketseat.
+- Dicebear Avatars
